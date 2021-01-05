@@ -27,7 +27,7 @@ Super-Resolution:
 >
 > 3.) If you want to start training from scratch, you can use
 >
->     ```python main.py --train --fromscratch --scale <scale> --epochs <epochs> --traindir <path to training dataset> --validdir <path to testing dataset>```
+>     python main.py --train --fromscratch --scale <scale> --epochs <epochs> --traindir <path to training dataset> --validdir <path to testing dataset>
 >
 > 4.) If you want to resume training, you can use
 >
@@ -41,8 +41,8 @@ Super-Resolution:
 > 2.) Start inference: ```python main.py --test --scale <scale>```
   
 ### **Results —**
-![image](https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/02_bicubic.png)
-
+left: bicubic / Right: EDSR
+<img src="https://img-blog.csdnimg.cn/20200105174727959.png" width="50%" height="50%" />
 
 
 ### **Reference —**
