@@ -43,11 +43,11 @@ Super-Resolution:
 ### **Results —**
 left: bicubic / Right: EDSR
 
-<img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/02_bicubic.png" width="20%" height="20%" />   <img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/02_edsr.png" width="20%" height="20%" />
+<img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/02_bicubic.png" width="40%" height="40%" />   <img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/02_edsr.png" width="40%" height="40%" />
 
-<img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/09_bicubic.png" width="20%" height="20%" />   <img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/09_edsr.png" width="20%" height="20%" />
+<img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/09_bicubic.png" width="40%" height="40%" />   <img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/09_edsr.png" width="40%" height="40%" />
 
-<img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/11_bicubic.png" width="20%" height="20%" />   <img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/11_edsr.png" width="20%" height="20%" />
+<img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/11_bicubic.png" width="40%" height="40%" />   <img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/11_edsr.png" width="40%" height="40%" />
 
 
 ### **Reference —**
