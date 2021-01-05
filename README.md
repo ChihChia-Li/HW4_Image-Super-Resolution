@@ -42,7 +42,9 @@ Super-Resolution:
   
 ### **Results —**
 left: bicubic / Right: EDSR
-<img src="https://img-blog.csdnimg.cn/20200105174727959.png" width="50%" height="50%" />
+
+<img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/02_bicubic.png" width="50%" height="50%" />
+<img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/02_edsr.png" width="50%" height="50%" />
 
 
 ### **Reference —**
