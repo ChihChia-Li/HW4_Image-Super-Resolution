@@ -31,7 +31,7 @@ Super-Resolution:
 >
 > 4.) If you want to resume training, you can use
 >
->     ```python main.py --train --scale <scale> --epochs <epochs> --traindir <path to training dataset> --validdir <path to testing dataset>```
+>     python main.py --train --scale <scale> --epochs <epochs> --traindir <path to training dataset> --validdir <path to testing dataset>
 >
 > 5.) In this project, I train the EDSR with 30 epochs.
   
@@ -41,7 +41,7 @@ Super-Resolution:
 > 2.) Start inference: ```python main.py --test --scale <scale>```
   
 ### **Results —**
-
+![image](https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/02_bicubic.png)
 
 
 
