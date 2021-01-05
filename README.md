@@ -2,9 +2,9 @@
 
 ### **Introduce —**
 Super-Resolution: 
-* Implementation of Enhanced Deep Residual Networks for Single Image Super-Resolution
+* Implementation of Enhanced Deep Residual Networks for Single Image Super-Resolution to scale the testing images three times
 * Training set: 291 high-resolution images
-* Testing set: 14 low-resolution images
+* Testing set: 14 low-resolution images 
 
 ### **Hardware —**
 * Tensorflow 1.15.2
@@ -44,6 +44,10 @@ Super-Resolution:
 left: bicubic / Right: EDSR
 
 <img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/02_bicubic.png" width="20%" height="20%" />   <img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/02_edsr.png" width="20%" height="20%" />
+
+<img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/09_bicubic.png" width="20%" height="20%" />   <img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/09_edsr.png" width="20%" height="20%" />
+
+<img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/11_bicubic.png" width="20%" height="20%" />   <img src="https://github.com/ChihChia-Li/HW4_Image-Super-Resolution/blob/main/EDSR_Tensorflow/Results_example/11_edsr.png" width="20%" height="20%" />
 
 
 ### **Reference —**
