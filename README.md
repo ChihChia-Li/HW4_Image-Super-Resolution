@@ -51,7 +51,9 @@ left: bicubic / Right: EDSR
 
 
 ### **Reference —**
-https://github.com/Saafke/EDSR_Tensorflow
+[1] Bee Lim, Sanghyun Son, Heewon Kim, Seungjun Nah, and Kyoung Mu Lee, "Enhanced Deep Residual Networks for Single Image Super-Resolution," 2nd NTIRE: New Trends in Image Restoration and Enhancement workshop and challenge on image super-resolution in conjunction with CVPR 2017.
+
+[2] https://github.com/Saafke/EDSR_Tensorflow
 
 
 
